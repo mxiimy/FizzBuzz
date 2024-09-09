@@ -364,7 +364,7 @@ Add this file to your project, commit, and push. If you don't get the right answ
 This is to get you to practice. You'll have until the end of the week to work out the details and
 submit your working code on MarkUs.
 
-And that's it for the first lab activity of the term!
+And that's it for the first lab activity of the term! 
 
 - [x] Check with those around you to see how many commits you each made during the lab. You can view the log of commits on GitHub or
       use the `git log` command to view a summary of the commits to the repository.
